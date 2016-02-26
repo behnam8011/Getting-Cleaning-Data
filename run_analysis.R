@@ -16,17 +16,13 @@ temp <- read.table("./features.txt", sep = " ")
 col.names <- as.character(temp$V2)
 
 # Read in training set
-temp <- read.table("./train/X_train.txt", sep = ",")
-temp <- gsub("  ", " ", temp$V1)
-train <-
-  read.table(
-    text = temp,
-    sep = " ",
-    nrows = 7352,
-    header = FALSE,
-    quote = ""
-  )
-train$V1 <- NULL
+train <- read.table(
+  file = "./train/X_train.txt",
+  colClasses = c(rep("numeric",561)),
+  nrows = 7352,
+  header = FALSE,
+  quote = ""
+)
 colnames(train) <- col.names
 
 # Read in activity names/aliaces
@@ -59,17 +55,15 @@ colnames(train.Activity) <- c("Activity")
 train.subjects <- read.table("./train/subject_train.txt")
 
 # Read in test set
-temp <- read.table("./test/X_test.txt", sep = ",")
-temp <- gsub("  ", " ", temp$V1)
 test <-
   read.table(
-    text = temp,
-    sep = " ",
+    file = "./test/X_test.txt",
+    colClasses = c(rep("numeric",561)),
     nrows = 2947,
     header = FALSE,
     quote = ""
   )
-test$V1 <- NULL
+
 colnames(test) <- col.names
 
 # Read in activity types for test set
