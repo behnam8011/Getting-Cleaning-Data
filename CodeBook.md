@@ -64,57 +64,57 @@ The resulting data set contains the following variables:
  7. **Average-Gravity-Signal-From-Accelerometer-Mean-Y-Axis**: Average gravity acceleration along phone's Y-axis, from accelerometer signal
  8. **Average-Gravity-Signal-From-Accelerometer-Mean-Z-Axis**: Average gravity acceleration along phone's Z-axis, from accelerometer signal
  9. **Average-Body-Signal-From-Accelerometer-Jerk-Mean-X-Axis**: Average Body Jerk along phone's X-axis, from accelerometer
-10. **Average-Body-Signal-From-Accelerometer-Jerk-Mean-Y-Axis**: Average Body Jerk along phone's Y-axis, from accelerometer
-11. **Average-Body-Signal-From-Accelerometer-Jerk-Mean-Z-Axis**: Average Body Jerk along phone's Z-axis, from accelerometer
-12. **Average-Body-Signal-From-Gyroscope-Mean-X-Axis**: Average body acceleration along phone's X-axis, from Gyroscope signal
-13. **Average-Body-Signal-From-Gyroscope-Mean-Y-Axis**: Average body acceleration along phone's Y-axis, from Gyroscope signal
-14. **Average-Body-Signal-From-Gyroscope-Mean-Z-Axis**: Average body acceleration along phone's Z-axis, from Gyroscope signal
-15. **Average-Body-Signal-From-Gyroscope-Jerk-Mean-X-Axis**: Average body Jerk along phone's X-axis, from Gyroscope signal
-16. **Average-Body-Signal-From-Gyroscope-Jerk-Mean-Y-Axis**: Average body Jerk along phone's Y-axis, from Gyroscope signal
-17. **Average-Body-Signal-From-Gyroscope-Jerk-Mean-Z-Axis**: Average body Jerk along phone's Z-axis, from Gyroscope signal
-18. **Average-Body-Signal-From-Accelerometer-Magnitude-Mean**: Average magnitude of the three-dimensional body acceleration signal from accelerometer, calculated using the Euclidean norm 
-19. **Average-Gravity-Signal-From-Accelerometer-Magnitude-Mean**: Average magnitude of the three-dimensional gravity acceleration signal from accelerometer, calculated using the Euclidean norm 
-20. **Average-Body-Signal-From-Accelerometer-Jerk-Magnitude-Mean**: Average magnitude of the three-dimensional body acceleration jerk signal from accelerometer, calculated using the Euclidean norm 
-21. **Average-Body-Signal-From-Gyroscope-Magnitude-Mean**: Average magnitude of the three-dimensional body acceleration signal from Gyroscope, calculated using the Euclidean norm 
-22. **Average-Body-Signal-From-Gyroscope-Jerk-Magnitude-Mean**: Average magnitude of the three-dimensional body acceleration jerk signal from Gyroscope, calculated using the Euclidean norm 
-23. **Average-Transformed-Body-Signal-From-Accelerometer-Mean-X-Axis**: Average body acceleration along phone's X-axis, from accelerometer signal, Fast Fourier Transformed
-24. **Average-Transformed-Body-Signal-From-Accelerometer-Mean-Y-Axis**: Average body acceleration along phone's Y-axis, from accelerometer signal, Fast Fourier Transformed   
-25. **Average-Transformed-Body-Signal-From-Accelerometer-Mean-Z-Axis**: Average body acceleration along phone's Z-axis, from accelerometer signal, Fast Fourier Transformed
-26. **Average-Transformed-Body-Signal-From-Accelerometer-Jerk-Mean-X-Axis**: Average body jerk along phone's X-axis, from accelerometer signal, Fast Fourier Transformed
-27. **Average-Transformed-Body-Signal-From-Accelerometer-Jerk-Mean-Y-Axis**: Average body jerk along phone's Y-axis, from accelerometer signal, Fast Fourier Transformed
-28. **Average-Transformed-Body-Signal-From-Accelerometer-Jerk-Mean-Z-Axis**: Average body jerk along phone's Z-axis, from accelerometer signal, Fast Fourier Transformed
-29. **Average-Transformed-Body-Signal-From-Gyroscope-Mean-X-Axis**: Average body acceleration along phone's X-axis, from Gyroscope signal, Fast Fourier Transformed
-30. **Average-Transformed-Body-Signal-From-Gyroscope-Mean-Y-Axis**: Average body acceleration along phone's Y-axis, from Gyroscope signal, Fast Fourier Transformed 
-31. **Average-Transformed-Body-Signal-From-Gyroscope-Mean-Z-Axis**: Average body acceleration along phone's Z-axis, from Gyroscope signal, Fast Fourier Transformed
-32. **Average-Transformed-Body-Signal-From-Accelerometer-Magnitude-Mean**: Average magnitude of the Fast-Fourier-Transformed three-dimensional body acceleration signal from Accelerometer, calculated using the Euclidean norm 
-33. **Average-Transformed-Body-Signal-From-Accelerometer-Jerk-Magnitude-Mean**: Average magnitude of the Fast-Fourier-Transformed three-dimensional body jerk signal from Accelerometer, calculated using the Euclidean norm  
-34. **Average-Transformed-Body-Signal-From-Gyroscope-Magnitude-Mean**: Average magnitude of the Fast-Fourier-Transformed three-dimensional body acceleration signal from Gyroscope, calculated using the Euclidean norm    
-35. **Average-Transformed-Body-Signal-From-Gyroscope-Jerk-Magnitude-Mean**: Average magnitude of the Fast-Fourier-Transformed three-dimensional body jerk signal from Gyroscope, calculated using the Euclidean norm 
-36. **Average-Body-Signal-From-Accelerometer-Std.Dev.-X-Axis**: Average standard deviation of body acceleration measurements along phone's X-axis, from accelerometer signal
-37. **Average-Body-Signal-From-Accelerometer-Std.Dev.-Y-Axis**: Average standard deviation of body acceleration measurements along phone's Y-axis, from accelerometer signal
-38. **Average-Body-Signal-From-Accelerometer-Std.Dev.-Z-Axis**: Average standard deviation of body acceleration measurements along phone's Z-axis, from accelerometer signal
-39. **Average-Gravity-Signal-From-Accelerometer-Std.Dev.-X-Axis**: Average standard deviation of Gravity acceleration measurements along phone's X-axis, from accelerometer signal
-40. **Average-Gravity-Signal-From-Accelerometer-Std.Dev.-Y-Axis**: Average standard deviation of Gravity acceleration measurements along phone's Y-axis, from accelerometer signal
-41. **Average-Gravity-Signal-From-Accelerometer-Std.Dev.-Z-Axis**: Average standard deviation of Gravity acceleration measurements along phone's Z-axis, from accelerometer signal
-42. **Average-Body-Signal-From-Accelerometer-Jerk-Std.Dev.-X-Axis**: Average standard deviation of body jerk measurements along phone's X-axis, from accelerometer signal
-43. **Average-Body-Signal-From-Accelerometer-Jerk-Std.Dev.-Y-Axis**: Average standard deviation of body jerk measurements along phone's Y-axis, from accelerometer signal
-44. **Average-Body-Signal-From-Accelerometer-Jerk-Std.Dev.-Z-Axis**: Average standard deviation of body jerk measurements along phone's Z-axis, from accelerometer signal
-45. **Average-Body-Signal-From-Gyroscope-Std.Dev.-X-Axis**: Average standard deviation of body acceleration measurements along phone's X-axis, from Gyroscope signal
-46. **Average-Body-Signal-From-Gyroscope-Std.Dev.-Y-Axis**: Average standard deviation of body acceleration measurements along phone's Y-axis, from Gyroscope signal
-47. **Average-Body-Signal-From-Gyroscope-Std.Dev.-Z-Axis**: Average standard deviation of body acceleration measurements along phone's Z-axis, from Gyroscope signal
-48. **Average-Body-Signal-From-Gyroscope-Jerk-Std.Dev.-X-Axis**: Average standard deviation of body jerk measurements along phone's X-axis, from Gyroscope signal
-49. **Average-Body-Signal-From-Gyroscope-Jerk-Std.Dev.-Y-Axis**: Average standard deviation of body jerk measurements along phone's Y-axis, from Gyroscope signal
-50. **Average-Body-Signal-From-Gyroscope-Jerk-Std.Dev.-Z-Axis**: Average standard deviation of body jerk measurements along phone's Z-axis, from Gyroscope signal
-51. **Average-Body-Signal-From-Accelerometer-Magnitude-Std.Dev.**: Average standard deviation of the Euclidean norm of body acceleration vector, from Accelerometer signal
-52. **Average-Gravity-Signal-From-Accelerometer-Magnitude-Std.Dev.**: Average standard deviation of the Euclidean norm of gravity acceleration vector, from Accelerometer signal   
-53. **Average-Body-Signal-From-Accelerometer-Jerk-Magnitude-Std.Dev.**: Average standard deviation of the Euclidean norm of body jerk vector, from Accelerometer signal
-54. **Average-Body-Signal-From-Gyroscope-Magnitude-Std.Dev.**: Average standard deviation of the Euclidean norm of body acceleration vector, from Gyroscope signal
-55. **Average-Body-Signal-From-Gyroscope-Jerk-Magnitude-Std.Dev.**: Average standard deviation of the Euclidean norm of body jerk vector, from Gyroscope signal
-56. **Average-Transformed-Body-Signal-From-Accelerometer-Std.Dev.-X-Axis**: Average standard deviation of Fast-Fourier-Transformed body acceleration measurements along phone's X-axis, from accelerometer signal
-57. **Average-Transformed-Body-Signal-From-Accelerometer-Std.Dev.-Y-Axis**: Average standard deviation of Fast-Fourier-Transformed body acceleration measurements along phone's Y-axis, from accelerometer signal
-58. **Average-Transformed-Body-Signal-From-Accelerometer-Std.Dev.-Z-Axis**: Average standard deviation of Fast-Fourier-Transformed body acceleration measurements along phone's Z-axis, from accelerometer signal
-59. **Average-Transformed-Body-Signal-From-Accelerometer-Jerk-Std.Dev.-X-Axis**: Average standard deviation of Fast-Fourier-Transformed body jerk measurements along phone's X-axis, from accelerometer signal
-60. **Average-Transformed-Body-Signal-From-Accelerometer-Jerk-Std.Dev.-Y-Axis**: Average standard deviation of Fast-Fourier-Transformed body jerk measurements along phone's Y-axis, from accelerometer signal
+ 10. **Average-Body-Signal-From-Accelerometer-Jerk-Mean-Y-Axis**: Average Body Jerk along phone's Y-axis, from accelerometer
+ 11. **Average-Body-Signal-From-Accelerometer-Jerk-Mean-Z-Axis**: Average Body Jerk along phone's Z-axis, from accelerometer
+ 12. **Average-Body-Signal-From-Gyroscope-Mean-X-Axis**: Average body acceleration along phone's X-axis, from Gyroscope signal
+ 13. **Average-Body-Signal-From-Gyroscope-Mean-Y-Axis**: Average body acceleration along phone's Y-axis, from Gyroscope signal
+ 14. **Average-Body-Signal-From-Gyroscope-Mean-Z-Axis**: Average body acceleration along phone's Z-axis, from Gyroscope signal
+ 15. **Average-Body-Signal-From-Gyroscope-Jerk-Mean-X-Axis**: Average body Jerk along phone's X-axis, from Gyroscope signal
+ 16. **Average-Body-Signal-From-Gyroscope-Jerk-Mean-Y-Axis**: Average body Jerk along phone's Y-axis, from Gyroscope signal
+ 17. **Average-Body-Signal-From-Gyroscope-Jerk-Mean-Z-Axis**: Average body Jerk along phone's Z-axis, from Gyroscope signal
+ 18. **Average-Body-Signal-From-Accelerometer-Magnitude-Mean**: Average magnitude of the three-dimensional body acceleration signal from accelerometer, calculated using the Euclidean norm 
+ 19. **Average-Gravity-Signal-From-Accelerometer-Magnitude-Mean**: Average magnitude of the three-dimensional gravity acceleration signal from accelerometer, calculated using the Euclidean norm 
+ 20. **Average-Body-Signal-From-Accelerometer-Jerk-Magnitude-Mean**: Average magnitude of the three-dimensional body acceleration jerk signal from accelerometer, calculated using the Euclidean norm 
+ 21. **Average-Body-Signal-From-Gyroscope-Magnitude-Mean**: Average magnitude of the three-dimensional body acceleration signal from Gyroscope, calculated using the Euclidean norm 
+ 22. **Average-Body-Signal-From-Gyroscope-Jerk-Magnitude-Mean**: Average magnitude of the three-dimensional body acceleration jerk signal from Gyroscope, calculated using the Euclidean norm 
+ 23. **Average-Transformed-Body-Signal-From-Accelerometer-Mean-X-Axis**: Average body acceleration along phone's X-axis, from accelerometer signal, Fast Fourier Transformed
+ 24. **Average-Transformed-Body-Signal-From-Accelerometer-Mean-Y-Axis**: Average body acceleration along phone's Y-axis, from accelerometer signal, Fast Fourier Transformed   
+ 25. **Average-Transformed-Body-Signal-From-Accelerometer-Mean-Z-Axis**: Average body acceleration along phone's Z-axis, from accelerometer signal, Fast Fourier Transformed
+ 26. **Average-Transformed-Body-Signal-From-Accelerometer-Jerk-Mean-X-Axis**: Average body jerk along phone's X-axis, from accelerometer signal, Fast Fourier Transformed
+ 27. **Average-Transformed-Body-Signal-From-Accelerometer-Jerk-Mean-Y-Axis**: Average body jerk along phone's Y-axis, from accelerometer signal, Fast Fourier Transformed
+ 28. **Average-Transformed-Body-Signal-From-Accelerometer-Jerk-Mean-Z-Axis**: Average body jerk along phone's Z-axis, from accelerometer signal, Fast Fourier Transformed
+ 29. **Average-Transformed-Body-Signal-From-Gyroscope-Mean-X-Axis**: Average body acceleration along phone's X-axis, from Gyroscope signal, Fast Fourier Transformed
+ 30. **Average-Transformed-Body-Signal-From-Gyroscope-Mean-Y-Axis**: Average body acceleration along phone's Y-axis, from Gyroscope signal, Fast Fourier Transformed 
+ 31. **Average-Transformed-Body-Signal-From-Gyroscope-Mean-Z-Axis**: Average body acceleration along phone's Z-axis, from Gyroscope signal, Fast Fourier Transformed
+ 32. **Average-Transformed-Body-Signal-From-Accelerometer-Magnitude-Mean**: Average magnitude of the Fast-Fourier-Transformed three-dimensional body acceleration signal from Accelerometer, calculated using the Euclidean norm 
+ 33. **Average-Transformed-Body-Signal-From-Accelerometer-Jerk-Magnitude-Mean**: Average magnitude of the Fast-Fourier-Transformed three-dimensional body jerk signal from Accelerometer, calculated using the Euclidean norm  
+ 34. **Average-Transformed-Body-Signal-From-Gyroscope-Magnitude-Mean**: Average magnitude of the Fast-Fourier-Transformed three-dimensional body acceleration signal from Gyroscope, calculated using the Euclidean norm    
+ 35. **Average-Transformed-Body-Signal-From-Gyroscope-Jerk-Magnitude-Mean**: Average magnitude of the Fast-Fourier-Transformed three-dimensional body jerk signal from Gyroscope, calculated using the Euclidean norm 
+ 36. **Average-Body-Signal-From-Accelerometer-Std.Dev.-X-Axis**: Average standard deviation of body acceleration measurements along phone's X-axis, from accelerometer signal
+ 37. **Average-Body-Signal-From-Accelerometer-Std.Dev.-Y-Axis**: Average standard deviation of body acceleration measurements along phone's Y-axis, from accelerometer signal 
+ 38. **Average-Body-Signal-From-Accelerometer-Std.Dev.-Z-Axis**: Average standard deviation of body acceleration measurements along phone's Z-axis, from accelerometer signal
+ 39. **Average-Gravity-Signal-From-Accelerometer-Std.Dev.-X-Axis**: Average standard deviation of Gravity acceleration measurements along phone's X-axis, from accelerometer signal
+ 40. **Average-Gravity-Signal-From-Accelerometer-Std.Dev.-Y-Axis**: Average standard deviation of Gravity acceleration measurements along phone's Y-axis, from accelerometer signal
+ 41. **Average-Gravity-Signal-From-Accelerometer-Std.Dev.-Z-Axis**: Average standard deviation of Gravity acceleration measurements along phone's Z-axis, from accelerometer signal
+ 42. **Average-Body-Signal-From-Accelerometer-Jerk-Std.Dev.-X-Axis**: Average standard deviation of body jerk measurements along phone's X-axis, from accelerometer signal
+ 43. **Average-Body-Signal-From-Accelerometer-Jerk-Std.Dev.-Y-Axis**: Average standard deviation of body jerk measurements along phone's Y-axis, from accelerometer signal
+ 44. **Average-Body-Signal-From-Accelerometer-Jerk-Std.Dev.-Z-Axis**: Average standard deviation of body jerk measurements along phone's Z-axis, from accelerometer signal
+ 45. **Average-Body-Signal-From-Gyroscope-Std.Dev.-X-Axis**: Average standard deviation of body acceleration measurements along phone's X-axis, from Gyroscope signal
+ 46. **Average-Body-Signal-From-Gyroscope-Std.Dev.-Y-Axis**: Average standard deviation of body acceleration measurements along phone's Y-axis, from Gyroscope signal
+ 47. **Average-Body-Signal-From-Gyroscope-Std.Dev.-Z-Axis**: Average standard deviation of body acceleration measurements along phone's Z-axis, from Gyroscope signal
+ 48. **Average-Body-Signal-From-Gyroscope-Jerk-Std.Dev.-X-Axis**: Average standard deviation of body jerk measurements along phone's X-axis, from Gyroscope signal
+ 49. **Average-Body-Signal-From-Gyroscope-Jerk-Std.Dev.-Y-Axis**: Average standard deviation of body jerk measurements along phone's Y-axis, from Gyroscope signal
+ 50. **Average-Body-Signal-From-Gyroscope-Jerk-Std.Dev.-Z-Axis**: Average standard deviation of body jerk measurements along phone's Z-axis, from Gyroscope signal
+ 51. **Average-Body-Signal-From-Accelerometer-Magnitude-Std.Dev.**: Average standard deviation of the Euclidean norm of body acceleration vector, from Accelerometer signal
+ 52. **Average-Gravity-Signal-From-Accelerometer-Magnitude-Std.Dev.**: Average standard deviation of the Euclidean norm of gravity acceleration vector, from Accelerometer signal   
+ 53. **Average-Body-Signal-From-Accelerometer-Jerk-Magnitude-Std.Dev.**: Average standard deviation of the Euclidean norm of body jerk vector, from Accelerometer signal
+ 54. **Average-Body-Signal-From-Gyroscope-Magnitude-Std.Dev.**: Average standard deviation of the Euclidean norm of body acceleration vector, from Gyroscope signal
+ 55. **Average-Body-Signal-From-Gyroscope-Jerk-Magnitude-Std.Dev.**: Average standard deviation of the Euclidean norm of body jerk vector, from Gyroscope signal
+ 56. **Average-Transformed-Body-Signal-From-Accelerometer-Std.Dev.-X-Axis**: Average standard deviation of Fast-Fourier-Transformed body acceleration measurements along phone's X-axis, from accelerometer signal
+ 57. **Average-Transformed-Body-Signal-From-Accelerometer-Std.Dev.-Y-Axis**: Average standard deviation of Fast-Fourier-Transformed body acceleration measurements along phone's Y-axis, from accelerometer signal
+ 58. **Average-Transformed-Body-Signal-From-Accelerometer-Std.Dev.-Z-Axis**: Average standard deviation of Fast-Fourier-Transformed body acceleration measurements along phone's Z-axis, from accelerometer signal
+ 59. **Average-Transformed-Body-Signal-From-Accelerometer-Jerk-Std.Dev.-X-Axis**: Average standard deviation of Fast-Fourier-Transformed body jerk measurements along phone's X-axis, from accelerometer signal
+ 60. **Average-Transformed-Body-Signal-From-Accelerometer-Jerk-Std.Dev.-Y-Axis**: Average standard deviation of Fast-Fourier-Transformed body jerk measurements along phone's Y-axis, from accelerometer signal
 61. **Average-Transformed-Body-Signal-From-Accelerometer-Jerk-Std.Dev.-Z-Axis**: Average standard deviation of Fast-Fourier-Transformed body jerk measurements along phone's Z-axis, from accelerometer signal
 62. **Average-Transformed-Body-Signal-From-Gyroscope-Std.Dev.-X-Axis**: Average standard deviation of Fast-Fourier-Transformed body acceleration measurements along phone's X-axis, from Gyroscope signal
 63. **Average-Transformed-Body-Signal-From-Gyroscope-Std.Dev.-Y-Axis**: Average standard deviation of Fast-Fourier-Transformed body acceleration measurements along phone's Y-axis, from Gyroscope signal 
